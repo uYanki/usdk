@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "conf.h": "c",
+        "ringbuf.h": "c",
+        "usdk.h": "c",
+        "stdio.h": "c",
+        "foc.h": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "xutility": "c",
+        "pid.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "cstddef": "cpp",
+        "tuple": "c",
+        "utility": "c",
+        "usdk.basic.h": "c",
+        "stdint.h": "c",
+        "app.h": "c",
+        "stdbool.h": "c"
+    },
+    "todo-tree.tree.disableCompactFolders": true
+}
